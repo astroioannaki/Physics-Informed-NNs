@@ -1,6 +1,6 @@
 # Physics-Informed-NNs
 
-In this notebook we investigate different PINN implementations for harmonic oscillators, covering all three different settings: (1) the underdamped case with $`\delta < \omega_0`$, (2) the critically damped case with $\delta = \omega_0$ and (3) the overdamped case with $\delta > \omega_0$. 
+In this notebook we investigate different PINN implementations for harmonic oscillators, covering all three different settings: (1) the underdamped case with - <img src="https://latex.codecogs.com/gif.latex?O_t=\delta < \omega_0 " />, (2) the critically damped case with $\delta = \omega_0$ and (3) the overdamped case with $\delta > \omega_0$. 
 
 Check out the notebook [here](https://github.com/astroioannaki/Graph-Neural-Networks/blob/main/GNNs%20-%20Node%20classification%20with%20Graph%20Convolutional%20Network%20(GCN).ipynb)!
 
