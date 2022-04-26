@@ -4,7 +4,7 @@ In this notebook we investigate different PINN implementations for harmonic osci
 
 Check out the notebook [here](https://github.com/astroioannaki/Physics-Informed-NNs/blob/main/PINNs%20for%20harmonic%20oscillators.ipynb)!
 
-![SegmentLocal](pinn_ud.gif "gif")
+![SegmentLocal](ud_pinn.gif "gif")
 
 The following blog posts/articles were particularly useful:
 - Lagaris, I. E., et al., "Artificial neural networks for solving ordinary and partial differential equations", 1998.
