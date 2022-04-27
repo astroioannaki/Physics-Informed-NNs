@@ -1,4 +1,4 @@
-# Physics Informed Neural Networks (PINNs)
+# Physics-Informed Neural Networks (PINNs)
 
 In this notebook we investigate different PINN implementations for harmonic oscillators, covering all three different settings: (1) the underdamped case with δ < ω_0, (2) the critically damped case with δ = ω_0 and (3) the overdamped case with δ > ω_0. 
 
